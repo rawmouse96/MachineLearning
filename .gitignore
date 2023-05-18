@@ -6,6 +6,7 @@ roadapikey.txt
 password.txt
 test.py
 test.ipynb
+model/
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
